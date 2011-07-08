@@ -1,0 +1,15 @@
+name: DisplayFieldBasename
+id: DisplayFieldBasename
+key:  DisplayFieldBasename
+version: 0.1
+author_link: http://www.tinybeans.net/blog/
+author_name: Tomohiro Okuwaki
+l10n_class: DisplayFieldBasename::L10N
+description: <__trans phrase="Add basename to the Customfield list screen.">
+list_properties:
+    field:
+        basename:
+            auto: 1
+            label: basename
+            order: 250
+            display: force
