@@ -12,4 +12,4 @@ list_properties:
             auto: 1
             label: basename
             order: 250
-            display: force
+            display: default
